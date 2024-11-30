@@ -109,8 +109,9 @@ audio:not([controls]) {
     height: 0
 }
 
-img {
-    border-style: none
+.profile-img {
+    border-style: none;
+    width: 20%;
 }
 
 svg:not(:root) {
@@ -4867,6 +4868,12 @@ a img {
     .header .site-title {
         margin: 0;
         font-size: 100px
+    }
+}
+
+@media (max-width: 768px) { /* Adjust 768px based on your target screen size */
+    .profile-img {
+        width: 50%; /* Set a smaller width for mobile screens */
     }
 }
 
