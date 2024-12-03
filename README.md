@@ -5,4 +5,4 @@ The website is built using HTML, CSS, and JavaScript, and it is deployed on GitH
 
 **Live Website**
 
-You can visit the live website https://colderhold.github.io/Portfolio/
+You can visit the live website: https://dhruv-shetty-portfolio.vercel.app/
